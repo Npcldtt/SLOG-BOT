@@ -1,0 +1,8 @@
+{
+   "Basic Commands": {
+        "cat" : "cat",
+        "selectcat" : "Selects a cat on the menu",
+        "exec" : "Executes Code",
+        "help" : "Shows some list commands"
+    }
+}

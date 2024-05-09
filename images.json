@@ -1,0 +1,50 @@
+{
+    "maxwell": [
+        "https://npcldtt.github.io/m1.jpg",
+        "https://npcldtt.github.io/m2.png",
+        "https://npcldtt.github.io/m3.jpg",
+        "https://npcldtt.github.io/m4.jpg",
+        "https://npcldtt.github.io/m5.jpg",
+        "https://npcldtt.github.io/m6.jpg",
+        "https://npcldtt.github.io/m7.png",
+        "https://npcldtt.github.io/m8.jpg",
+        "https://npcldtt.github.io/m9.jpg",
+        "https://npcldtt.github.io/m10.jpg"
+    ],
+    
+    "soggycat": [
+        "https://npcldtt.github.io/1.jpg",
+        "https://npcldtt.github.io/2.jpg",
+        "https://npcldtt.github.io/3.jpg",
+        "https://npcldtt.github.io/4.jpg",
+        "https://npcldtt.github.io/5.jpg",
+        "https://npcldtt.github.io/6.jpg",
+        "https://npcldtt.github.io/7.jpg",
+        "https://npcldtt.github.io/8.jpg",
+        "https://npcldtt.github.io/9.jpg",
+        "https://npcldtt.github.io/10.jpg"
+    ],
+    
+    "both": [
+        "https://npcldtt.github.io/m1.jpg",
+        "https://npcldtt.github.io/m2.jpg",
+        "https://npcldtt.github.io/m3.jpg",
+        "https://npcldtt.github.io/m4.jpg",
+        "https://npcldtt.github.io/m5.jpg",
+        "https://npcldtt.github.io/m6.jpg",
+        "https://npcldtt.github.io/m7.png",
+        "https://npcldtt.github.io/m8.jpg",
+        "https://npcldtt.github.io/m9.jpg",
+        "https://npcldtt.github.io/m10.jpg",
+        "https://npcldtt.github.io/1.jpg",
+        "https://npcldtt.github.io/2.jpg",
+        "https://npcldtt.github.io/3.jpg",
+        "https://npcldtt.github.io/4.jpg",
+        "https://npcldtt.github.io/5.jpg",
+        "https://npcldtt.github.io/6.jpg",
+        "https://npcldtt.github.io/7.jpg",
+        "https://npcldtt.github.io/8.jpg",
+        "https://npcldtt.github.io/9.jpg",
+        "https://npcldtt.github.io/10.jpg"
+    ]
+}
